@@ -1,8 +1,4 @@
-# PayTM_MERN_Stack
 
-## Overview
-
-This is a full-stack Paytm-like application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The application allows users to sign up, sign in, and send money to their friends.
 
 ## Features
 
@@ -29,7 +25,7 @@ This is a full-stack Paytm-like application built using the MERN stack (MongoDB,
 
   **Clone the Repository:**
    ```bash
-   git clone https://github.com/Mayur-Shiwal/PayTM_MERN_Stack.git
+   https://github.com/BHADOURIAKUNALSINGH/Payment-system.git
    cd PayTM_MERN_Stack
 ```
 **Install backend dependencies**
